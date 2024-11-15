@@ -4,8 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GameCharacter
-{
     abstract class GameCharacter
     {
         public string Name { get; }
@@ -76,5 +74,4 @@ namespace GameCharacter
 
             Console.WriteLine($"{Name} leveled up! Level: {Level}, Strength: {Strength}, Health: {Health}, Armor: {Armor}");
         }
-    }
 }
