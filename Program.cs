@@ -145,3 +145,4 @@ using System.Threading.Tasks;
             Console.WriteLine($"Mage: {merlin.Name}, Level: {merlin.Level}, Health: {merlin.Health}, Mana: {merlin.Mana}, Intelligence: {merlin.Intelligence}, SpellPower: {merlin.SpellPower}");
         }
     }
+}
