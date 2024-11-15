@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -145,4 +145,4 @@ using System.Threading.Tasks;
             Console.WriteLine($"Mage: {merlin.Name}, Level: {merlin.Level}, Health: {merlin.Health}, Mana: {merlin.Mana}, Intelligence: {merlin.Intelligence}, SpellPower: {merlin.SpellPower}");
         }
     }
-
+}
