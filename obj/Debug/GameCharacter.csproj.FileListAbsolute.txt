@@ -1,0 +1,7 @@
+C:\Users\joel\Desktop\Function e\GameCharacter\bin\Debug\GameCharacter.exe.config
+C:\Users\joel\Desktop\Function e\GameCharacter\bin\Debug\GameCharacter.exe
+C:\Users\joel\Desktop\Function e\GameCharacter\bin\Debug\GameCharacter.pdb
+C:\Users\joel\Desktop\Function e\GameCharacter\obj\Debug\GameCharacter.csproj.AssemblyReference.cache
+C:\Users\joel\Desktop\Function e\GameCharacter\obj\Debug\GameCharacter.csproj.CoreCompileInputs.cache
+C:\Users\joel\Desktop\Function e\GameCharacter\obj\Debug\GameCharacter.exe
+C:\Users\joel\Desktop\Function e\GameCharacter\obj\Debug\GameCharacter.pdb
