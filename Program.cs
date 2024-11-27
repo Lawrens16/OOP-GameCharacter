@@ -74,7 +74,7 @@ using System.Threading.Tasks;
 
             Console.WriteLine($"{Name} leveled up! Level: {Level}, Strength: {Strength}, Health: {Health}, Armor: {Armor}");
         }
-    
+    }
 
     class Mage : GameCharacter
     {
